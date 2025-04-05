@@ -27,12 +27,13 @@ Curso de Arquitecura de Microservices en .NET 9
 
 ### Arquitecto de aplicaciones empresarial
 <p>Crea una hoja de ruta de cartera de aplicaciones de estado objetivo teniendo en cuenta los siguiente puntos:</p>
-* Identifica Brechas en las aplicaciones.
-* Toma decisiones de retirar aplicaciones de bajo valor.
-* Modernización de aplicaciones heredades de alto valor.
-* Elimina redundancia.
-* Estandarización en plataforma tecnológica común.
-* Consolida aplicaciones.
+
+1. Identifica Brechas en las aplicaciones.
+2. Toma decisiones de retirar aplicaciones de bajo valor.
+3. Modernización de aplicaciones heredades de alto valor.
+4. Elimina redundancia.
+5. Estandarización en plataforma tecnológica común.
+6. Consolida aplicaciones.
 
 ## Conceptos fundamenales de arquitectura
 ### ¿Qué es ...?
@@ -185,11 +186,12 @@ Orientado al objetivo estratégico, comunicación asincrona, se encarga de toda 
 > [!NOTE]
 > ADR: Architectural Decision Record.
 
+
 ---
-
-Hadson Paredes
-> [Blog personal](http://blog.hadsonpar.com/)
-> [Facebook](https://www.facebook.com/hadsonpar/)
-> [X](https://x.com/hadson_paredes/)
-> [GitHub](https://github.com/devhadson/)
-
+**Hadson Paredes**<br/>
+ <sub>
+ <a href="http://blog.hadsonpar.com/" target="_blank">BLOG</a> &nbsp; | &nbsp;
+ <a href="https://www.facebook.com/hadsonpar/" target="_blank">FACEBOOK</a> &nbsp; | &nbsp;
+ <a href="https://x.com/hadson_paredes/" target="_blank">X</a> &nbsp; | &nbsp;
+ <a href="https://github.com/devhadson/" target="_blank">GITHUB</a>
+ </sub>
