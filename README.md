@@ -1,8 +1,9 @@
 # Microservices architecture course in .NET 9
 Curso de Arquitecura de Microservices en .NET 9
 ## Tabla de contenido
-* [Evolución de la arquitectura Empresarial](#evolución-de-la-arquitectura-empresarial)
-* [Conceptos fundamenales de arquitectura](#conceptos-fundamenales-de-arquitectura)
+1. [Evolución de la arquitectura Empresarial](#evolución-de-la-arquitectura-empresarial)
+2. [Conceptos fundamenales de arquitectura](#conceptos-fundamenales-de-arquitectura)
+3. [Estilos Arquitectónicos](#estilos-arquitectónicos)
  
 ## Evolución de la arquitectura Empresarial
 <p>La arquitectura empresarial adopta vistaas tanto atómicas como holísticas.</p>
@@ -184,9 +185,11 @@ Orientado al objetivo estratégico, comunicación asincrona, se encarga de toda 
 > [!NOTE]
 > ADR: Architectural Decision Record.
 
-#### Redes sociales:
+---
+
 Hadson Paredes
-* [Blog personal](http://blog.hadsonpar.com/)
-* [Facebook](https://www.facebook.com/hadsonpar/)
-* [X](https://x.com/hadson_paredes/)
-* [GitHub](https://github.com/devhadson/)
+> [Blog personal](http://blog.hadsonpar.com/)
+> [Facebook](https://www.facebook.com/hadsonpar/)
+> [X](https://x.com/hadson_paredes/)
+> [GitHub](https://github.com/devhadson/)
+
